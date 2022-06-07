@@ -1,2 +1,2 @@
 # snacks
-morsels of code
+snack sized code to chew on
